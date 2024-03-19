@@ -1,0 +1,12 @@
+p {
+  color: #424242;
+}
+footer {
+  margin-top: 50px;
+}
+body {
+  background-image: url("sai.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
