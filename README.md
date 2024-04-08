@@ -20,7 +20,7 @@ Build a static frond-end website
 
 ### Overview
 
-- Create an online Portfolio with a minimum of 3 pages
+- Create an online Portfolio website with a minimum of 3 pages
 - Home , About and Contact
 
 ### Information Architecture
