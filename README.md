@@ -30,4 +30,4 @@ Build a static frond-end website
 
 ## Acknowledgments
 
-- Created header logo using (https://www.canva.com/free/)
+- - [![canva][canva]][https://www.canva.com/free/]
