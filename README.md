@@ -27,3 +27,7 @@ Build a static frond-end website
 
 - Incorporate a main navigation menu and structured layout (might want to use bootstrap to accomplish this)
 - Incorporate a footer at the bottom of each page
+
+## Acknowledgments
+
+- Created header logo using (https://www.canva.com/free/)
