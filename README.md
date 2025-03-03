@@ -31,3 +31,8 @@ Build a static frond-end website
 ## Acknowledgments
 
 - Header logo created using [Canva](https://www.canva.com/free/)
+
+## Deployment
+
+
+- Live link can be found [here](https://sai02-creator.github.io/project-1/)
